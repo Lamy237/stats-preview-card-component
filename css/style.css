@@ -72,7 +72,7 @@ body {
 }
 
 .grid__description {
-    padding: 4rem;
+    padding: 4rem 6rem 4rem 4rem;
 
     display: grid;
     grid-template-columns: 1fr;
@@ -83,11 +83,11 @@ body {
 
 .grid__summary {
     display: grid;
-    gap: 2rem;
+    gap: 1.5rem;
 }
 
 .grid__h1 {
-    font-size: clamp(1.75rem, 1rem + 2vw, 2.5rem);
+    font-size: clamp(1.75rem, 1.25rem + 2vw, 2.25rem);
     font-weight: 700;
 }
 
@@ -111,7 +111,7 @@ body {
 }
 
 .grid__stats .grid__h2 {
-    font-size: clamp(1.25rem, 0.75rem + 2vw, 2rem);
+    font-size: clamp(1rem, 0.75rem + 2vw, 1.5rem);
 }
 
 .grid__stats .grid__p {
@@ -141,6 +141,7 @@ body {
     }
 
     .grid__description {
+        padding: 4rem;
         text-align: center;
         gap: 3rem;
     }
