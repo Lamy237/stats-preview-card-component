@@ -78,12 +78,12 @@ body {
     grid-template-columns: 1fr;
     grid-template-rows: auto auto;
     place-content: center;
-    gap: 4rem;
+    gap: 5rem;
 }
 
 .grid__summary {
     display: grid;
-    gap: 1.5rem;
+    gap: 1.75rem;
 }
 
 .grid__h1 {
