@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Stats preview card component using CSS Grid](https://www.frontendmentor.io/solutions/stats-preview-card-component-using-css-grid-hgWFurTqZ3)
+- Live Site URL: [staca](https://staca.netlify.app)
 
 ## My process
 
